@@ -1,17 +1,48 @@
-# diploma_survey
+# 📱 Дипломный проект: Мобильное приложение для опросов
 
-A new Flutter project.
+**Кроссплатформенное приложение для создания и прохождения опросов на Flutter + Firebase**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 О проекте
 
-A few resources to get you started if this is your first Flutter project:
+Данное мобильное приложение разработано в рамках дипломной работы. Оно позволяет проводить социологические, маркетинговые и другие виды опросов в удобном современном интерфейсе.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Приложение поддерживает две роли пользователей:
+- **Администратор** — создание и управление опросами
+- **Респондент** — прохождение опросов
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Основные возможности
+
+### Для администратора:
+- Создание новых опросов
+- Редактирование существующих опросов
+- Просмотр статистики и результатов в реальном времени
+- Управление пользователями
+
+### Для респондентов:
+- Удобная авторизация и регистрация
+- Просмотр доступных опросов
+- Прохождение опросов с разными типами вопросов
+- Личный кабинет и история прохождённых опросов
+
+### Общие возможности:
+- Красивый и интуитивно понятный Material Design интерфейс
+- Работа с Firebase (аутентификация, база данных, хостинг)
+- Кроссплатформенность (Android, iOS, Web)
+
+---
+
+## 🛠 Технологический стек
+
+- **Flutter** (Dart) — кроссплатформенная разработка
+- **Firebase** — аутентификация, Firestore, Storage
+- **MVVM архитектура** + Provider / Riverpod (предположительно)
+- **Material 3** дизайн
+- Чистая структура проекта с разделением по слоям
+
+---
+
+## 📁 Структура проекта
