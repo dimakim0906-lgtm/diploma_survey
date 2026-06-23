@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087149908046",
+    "project_id": "diplomasurvey-cb0a5",
+    "storage_bucket": "diplomasurvey-cb0a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087149908046:android:68275b500b522c5eb6a31f",
+        "android_client_info": {
+          "package_name": "com.example.diploma_survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087149908046-d4rrsucamuduf4qov4dn08s491fov5cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC10-YjJCxcs_jATgK53NeOLfAwOIccmxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087149908046-d4rrsucamuduf4qov4dn08s491fov5cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
